@@ -61,7 +61,7 @@ $this->params['breadcrumbs'][] = $this->title;
             <div class="col-lg-12 col-md-12 col-sm1-12 col-xs-12">
                 <div class=" hb_mainheading hb_bottompadder40">
                     <h2>Особенности</h2>
-                    <h3>Почему Herbal Pure</h3>
+                    <h3>Почему Herbal Pure?</h3>
                 </div>
             </div>
         </div>
